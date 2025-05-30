@@ -447,19 +447,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Lenovo\\.nuget\\packages\\": {}
+    "C:\\Users\\erick\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\desktop\\paroimpar\\paroimpar\\paroimpar.csproj",
+      "projectUniqueName": "C:\\Users\\erick\\OneDrive\\Tareas\\Universidad\\Programacion\\tarea prog\\Colaborativo\\paroimpar\\paroimpar.csproj",
       "projectName": "paroimpar",
-      "projectPath": "C:\\Users\\Lenovo\\desktop\\paroimpar\\paroimpar\\paroimpar.csproj",
-      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\desktop\\paroimpar\\paroimpar\\obj\\",
+      "projectPath": "C:\\Users\\erick\\OneDrive\\Tareas\\Universidad\\Programacion\\tarea prog\\Colaborativo\\paroimpar\\paroimpar.csproj",
+      "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\erick\\OneDrive\\Tareas\\Universidad\\Programacion\\tarea prog\\Colaborativo\\paroimpar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -512,7 +512,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

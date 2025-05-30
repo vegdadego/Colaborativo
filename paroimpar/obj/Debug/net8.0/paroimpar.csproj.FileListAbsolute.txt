@@ -30,3 +30,36 @@ C:\Users\Lenovo\Desktop\paroimpar\paroimpar\obj\Debug\net8.0\refint\paroimpar.dl
 C:\Users\Lenovo\Desktop\paroimpar\paroimpar\obj\Debug\net8.0\paroimpar.pdb
 C:\Users\Lenovo\Desktop\paroimpar\paroimpar\obj\Debug\net8.0\paroimpar.genruntimeconfig.cache
 C:\Users\Lenovo\Desktop\paroimpar\paroimpar\obj\Debug\net8.0\ref\paroimpar.dll
+C:\Users\erick\OneDrive\Tareas\Universidad\Programacion\tarea prog\Colaborativo\paroimpar\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\erick\OneDrive\Tareas\Universidad\Programacion\tarea prog\Colaborativo\paroimpar\bin\Debug\net8.0\appsettings.json
+C:\Users\erick\OneDrive\Tareas\Universidad\Programacion\tarea prog\Colaborativo\paroimpar\bin\Debug\net8.0\paroimpar.exe
+C:\Users\erick\OneDrive\Tareas\Universidad\Programacion\tarea prog\Colaborativo\paroimpar\bin\Debug\net8.0\paroimpar.deps.json
+C:\Users\erick\OneDrive\Tareas\Universidad\Programacion\tarea prog\Colaborativo\paroimpar\bin\Debug\net8.0\paroimpar.runtimeconfig.json
+C:\Users\erick\OneDrive\Tareas\Universidad\Programacion\tarea prog\Colaborativo\paroimpar\bin\Debug\net8.0\paroimpar.dll
+C:\Users\erick\OneDrive\Tareas\Universidad\Programacion\tarea prog\Colaborativo\paroimpar\bin\Debug\net8.0\paroimpar.pdb
+C:\Users\erick\OneDrive\Tareas\Universidad\Programacion\tarea prog\Colaborativo\paroimpar\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\erick\OneDrive\Tareas\Universidad\Programacion\tarea prog\Colaborativo\paroimpar\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\erick\OneDrive\Tareas\Universidad\Programacion\tarea prog\Colaborativo\paroimpar\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\erick\OneDrive\Tareas\Universidad\Programacion\tarea prog\Colaborativo\paroimpar\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\erick\OneDrive\Tareas\Universidad\Programacion\tarea prog\Colaborativo\paroimpar\obj\Debug\net8.0\paroimpar.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Tareas\Universidad\Programacion\tarea prog\Colaborativo\paroimpar\obj\Debug\net8.0\paroimpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Tareas\Universidad\Programacion\tarea prog\Colaborativo\paroimpar\obj\Debug\net8.0\paroimpar.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Tareas\Universidad\Programacion\tarea prog\Colaborativo\paroimpar\obj\Debug\net8.0\paroimpar.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Tareas\Universidad\Programacion\tarea prog\Colaborativo\paroimpar\obj\Debug\net8.0\paroimpar.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Tareas\Universidad\Programacion\tarea prog\Colaborativo\paroimpar\obj\Debug\net8.0\paroimpar.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\erick\OneDrive\Tareas\Universidad\Programacion\tarea prog\Colaborativo\paroimpar\obj\Debug\net8.0\paroimpar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\erick\OneDrive\Tareas\Universidad\Programacion\tarea prog\Colaborativo\paroimpar\obj\Debug\net8.0\paroimpar.sourcelink.json
+C:\Users\erick\OneDrive\Tareas\Universidad\Programacion\tarea prog\Colaborativo\paroimpar\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\erick\OneDrive\Tareas\Universidad\Programacion\tarea prog\Colaborativo\paroimpar\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\erick\OneDrive\Tareas\Universidad\Programacion\tarea prog\Colaborativo\paroimpar\obj\Debug\net8.0\staticwebassets\msbuild.paroimpar.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\erick\OneDrive\Tareas\Universidad\Programacion\tarea prog\Colaborativo\paroimpar\obj\Debug\net8.0\staticwebassets\msbuild.build.paroimpar.props
+C:\Users\erick\OneDrive\Tareas\Universidad\Programacion\tarea prog\Colaborativo\paroimpar\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.paroimpar.props
+C:\Users\erick\OneDrive\Tareas\Universidad\Programacion\tarea prog\Colaborativo\paroimpar\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.paroimpar.props
+C:\Users\erick\OneDrive\Tareas\Universidad\Programacion\tarea prog\Colaborativo\paroimpar\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\erick\OneDrive\Tareas\Universidad\Programacion\tarea prog\Colaborativo\paroimpar\obj\Debug\net8.0\scopedcss\bundle\paroimpar.styles.css
+C:\Users\erick\OneDrive\Tareas\Universidad\Programacion\tarea prog\Colaborativo\paroimpar\obj\Debug\net8.0\paroimpar.csproj.Up2Date
+C:\Users\erick\OneDrive\Tareas\Universidad\Programacion\tarea prog\Colaborativo\paroimpar\obj\Debug\net8.0\paroimpar.dll
+C:\Users\erick\OneDrive\Tareas\Universidad\Programacion\tarea prog\Colaborativo\paroimpar\obj\Debug\net8.0\refint\paroimpar.dll
+C:\Users\erick\OneDrive\Tareas\Universidad\Programacion\tarea prog\Colaborativo\paroimpar\obj\Debug\net8.0\paroimpar.pdb
+C:\Users\erick\OneDrive\Tareas\Universidad\Programacion\tarea prog\Colaborativo\paroimpar\obj\Debug\net8.0\paroimpar.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Tareas\Universidad\Programacion\tarea prog\Colaborativo\paroimpar\obj\Debug\net8.0\ref\paroimpar.dll
