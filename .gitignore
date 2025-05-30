@@ -1,0 +1,57 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vscode/
+.vs/
+.vscode/*
+.vs/*
+
+# ASP.NET Core
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.json
+
+# Secret settings
+secrets.json
+
+# Certificates
+*.pfx
+*.key
+*.cer
+*.crt
+
+# Logs
+*.log
+
+# Runtime
+*.dll
+*.exe
+*.db
+*.cache
+
+# Publish output
+publish/
+*.zip
+*.tar.gz
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Test results
+TestResults/
+
+# Others
+.env
+*.nupkg
+*.snupkg
+.idea/
